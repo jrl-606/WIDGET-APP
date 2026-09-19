@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# Never commit live credentials — .env.example is the template.
+.env
+.env.local
+.env*.local
